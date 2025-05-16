@@ -4,4 +4,10 @@ body {
 
 h1 {
   color: blue;
+  text-decoration: underline;
+}
+
+h3 {
+  color: teal;
+  letter-spacing: 2px;
 }
